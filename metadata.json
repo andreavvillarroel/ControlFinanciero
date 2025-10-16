@@ -1,0 +1,5 @@
+{
+  "name": "Pulseras Finance Tracker",
+  "description": "An application to track income and expenses for a bracelet business, including inventory management for materials and currency conversion based on the BCV rate.",
+  "requestFramePermissions": []
+}
